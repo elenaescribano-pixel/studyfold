@@ -1,0 +1,9 @@
+__pycache__/
+*.egg-info/
+.venv/
+.pytest_cache/
+studyfold_out/
+*.work.json
+# keep your own course PDFs out of the repo
+*.pdf
+!examples/*.pdf
